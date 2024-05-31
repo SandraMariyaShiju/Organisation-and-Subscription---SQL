@@ -1,0 +1,30 @@
+,,,,,,,
+,,,,,,,
+"""organization"" Table",,,,,,,
+,,,,,,,
+org_id,org_name,org_code,org_status,org_date,properties,,
+11,Company A,BIW,renewed,2023-05-05 04:23:04,"{""email"": ""biw@gmail.com"",""company"":""Company A"",""location"":""Maharastra""}",,"org_id: unique ID
+org_name: Name of the organization
+org_code: Unique alpha code for the organization
+org_status: indicates if the organization has renewed/not renewed their subscription
+org_date: Date when the organization first started their subscription service
+properties: includes other details of the organization such as location and email (of data type JSON)"
+22,Company B,BIX,renewed,2023-05-12 06:28:34,"{""email"": ""bix@gmail.com"",""location"":""Punjab"",""company"":""Company B""}",,
+33,Company C,BMR,not renewed,2023-06-15 06:53:38,"{""email"": ""bon@gmail.com"",""company"":""Company C"",""location"":""Maharastra""}",,
+44,Company D,BMW,not renewed,2023-06-15 18:19:42,"{""email"": ""bou@gmail.com"",""company"":""Company D"",""location"":""Gujarat""}",,
+55,Company E,BIZ,renewed,2023-05-15 09:55:47,"{""email"": ""biz@gmail.com"",""location"":""Gujarat"",""company"":""Company E}",,
+66,Company F,BNB,not renewed,2023-06-19 09:29:29,"{""email"": ""bov@gmail.com"",""company"":""Company F"",""location"":""Gujarat""}",,
+77,Company G,BJA,renewed,2023-05-12 08:32:27,"{""email"": ""bja@gmail.com"",""company"":""Company G"",""location"":""Punjab""}",,
+88,Company H,BJI,renewed,2023-05-16 10:26:26,"{""email"": ""bji@gmail.com"",""company"":""Company H"",""location"":""Gujarat""}",,
+99,Company I,BNK,not renewed,2023-06-19 17:57:52,"{""email"": ""bow@gmail.com"",""company"":""Company I"",""location"":""Punjab""}",,
+111,Company J,BNQ,not renewed,2023-06-22 11:02:47,"{""email"": ""bpc@gmail.com"",""company"":""Company J"",""location"":""Maharastra""}",,
+222,Company K,BNY,not renewed,2023-06-23 07:53:57,"{""email"": ""bpi@gmail.com"",""company"":""Company K"",""location"":""Maharastra""}",,
+333,Company L,BNZ,not renewed,2023-06-23 07:56:31,"{""email"": ""bpj@gmail.com"",""company"":""Company L"",""location"":""Maharastra""}",,
+444,Company M,BJJ,renewed,2023-05-16 12:50:03,"{""email"": ""bjj@gmail.com"",""company"":""Company M"",""location"":""Maharastra""}",,
+555,Company N,BOA,not renewed,2023-06-23 11:51:27,"{""email"": ""bpl@gmail.com"",""company"":""Company N"",""location"":""Punjab""}",,
+666,Company O,BOD,not renewed,2023-06-24 05:33:17,"{""email"": ""bpm@gmail.com"",""company"":""Company O"",""location"":""Maharastra""}",,
+777,Company P,BJM,renewed,2023-05-17 06:37:55,"{""email"": ""bjm@gmail.com"",""company"":""Company P"",""location"":""Gujarat""}",,
+888,Company Q,BJP,renewed,2023-05-19 04:41:33,"{""email"": ""bjp@gmail.com"",""company"":""Company Q"",""location"":""Gujarat""}",,
+999,Company R,BJR,renewed,2023-05-19 07:39:12,"{""email"": ""bjr@gmail.com"",""company"":""Company R"",""location"":""Gujarat""}",,
+1111,Company S,BJT,renewed,2023-05-11 06:04:19,"{""email"": ""bjt@gmail.com"",""company"":""Company S"",""location"":""Gujarat""}",,
+2222,Company T,BOK,not renewed,2023-06-26 10:36:01,"{""email"": ""bpo@gmail.com"",""company"":""Company T"",""location"":""Punjab""}",,
